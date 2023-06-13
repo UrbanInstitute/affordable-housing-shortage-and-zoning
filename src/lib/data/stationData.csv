@@ -1,0 +1,394 @@
+JURISDICTION_ID,STATION_ID,stationLink,name,status,modeOriginal,mode,lat,long,existing_housing_units,baseline_under_zoning,plexify_reform,multiply_reform,legalize_reform,middle_reform,all_reforms
+G53018965,S1353974517,DuPont-DuPont Sounder Extension-Commuter Rail-planned,DuPont,planned,Commuter Rail,Commuter Rail,47.0895,-122.64058,156,276,276,396,293,653,790
+G53038038,S160847662,Tillicum-DuPont Sounder Extension-Commuter Rail-planned,Tillicum,planned,Commuter Rail,Commuter Rail,47.11901,-122.55746,488,580,1244,633,580,627,1329
+G53038038,S684341907,Lakewood-Sounder-Commuter Rail-existing,Lakewood,existing,Commuter Rail,Commuter Rail,47.15321,-122.4992,757,1706,2080,2270,1820,1893,2898
+G53070000,S3483371652,South 96 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 96 Street,planned,Bus Rapid Transit,Rapid Transit,47.17009,-122.43407,830,1993,3352,3159,1993,3932,6273
+G53070000,S4188345991,South 84 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 84 Street,planned,Bus Rapid Transit,Rapid Transit,47.18096,-122.43407,971,1179,3583,1334,1179,1295,3839
+G53070000,S2581133508,South 78 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 78 Street,planned,Bus Rapid Transit,Rapid Transit,47.18608,-122.43407,793,921,2599,1192,921,1112,2918
+G53056695,S929285819,Puyallup-Sounder-Commuter Rail-existing,Puyallup,existing,Commuter Rail,Commuter Rail,47.19269,-122.29507,1438,5219,6464,6884,5238,5219,8148
+G53070000,S1293746446,South 72 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 72 Street,planned,Bus Rapid Transit,Rapid Transit,47.19185,-122.43404,830,983,3172,1195,983,1150,3400
+G53068435,S3083032273,Sumner-Sounder-Commuter Rail-existing,Sumner,existing,Commuter Rail,Commuter Rail,47.20098,-122.24526,775,800,2061,842,800,1792,3053
+G53070000,S4194266505,South 64 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 64 Street,planned,Bus Rapid Transit,Rapid Transit,47.19915,-122.43397,1179,1222,4635,1232,1222,1244,4659
+G53070000,S515297859,South Tacoma-Sounder-Commuter Rail-existing,South Tacoma,existing,Commuter Rail,Commuter Rail,47.20355,-122.48553,661,1060,2129,1131,1060,1257,2380
+G53070000,S1781864840,South 56 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 56 Street,planned,Bus Rapid Transit,Rapid Transit,47.20631,-122.4339,909,1041,3590,1178,1041,1058,3732
+G53070000,S2499859406,South 50 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 50 Street,planned,Bus Rapid Transit,Rapid Transit,47.21178,-122.43396,1004,1053,3884,1102,1053,1081,3950
+G53070000,S877152940,South 43 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 43 Street,planned,Bus Rapid Transit,Rapid Transit,47.2184,-122.43402,997,1018,3727,1043,1018,1032,3756
+G53070000,S3451759040,South 38 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 38 Street,planned,Bus Rapid Transit,Rapid Transit,47.22305,-122.43407,453,683,1074,752,683,890,1326
+G53070000,S2108143948,South 34 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 34 Street,planned,Bus Rapid Transit,Rapid Transit,47.23022,-122.43403,754,1244,1258,1562,1244,1638,1780
+G53070000,S3425406580,Tacoma Dome-Orange Line (Tacoma Link)/Sounder-Light Rail-existing,Tacoma Dome,existing,Light Rail,Light Rail,47.23963,-122.42777,83,744,750,1394,744,797,1453
+G53070000,S410100943,South 26 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 26 Street,planned,Bus Rapid Transit,Rapid Transit,47.23802,-122.43513,131,1000,1000,1759,1000,1000,1759
+G53070000,S2164713217,Portland Avenue-Tacoma Dome Link Extension-Light Rail-planned,Portland Avenue,planned,Light Rail,Light Rail,47.24294,-122.41145,98,284,302,284,284,473,491
+G53070000,S3971006670,Pearl-TCC Tacoma Link Extension-Light Rail-planned,Pearl,planned,Light Rail,Light Rail,47.24282,-122.51559,819,842,1941,848,842,896,1995
+G53070000,S22169543,Ainsworth-TCC Tacoma Link Extension-Light Rail-planned,Ainsworth,planned,Light Rail,Light Rail,47.24308,-122.45698,878,909,3235,914,909,948,3274
+G53070000,S1659641582,St.  Joseph-Link T Line-Light Rail-uc,St.  Joseph,uc,Light Rail,Light Rail,47.24397,-122.44996,801,2280,3224,3627,2280,2608,4722
+G53070000,S31151274,South 23 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 23 Street,planned,Bus Rapid Transit,Rapid Transit,47.24064,-122.43914,627,1466,1481,2271,1466,1547,2367
+G53070000,S697140835,Sprague-TCC Tacoma Link Extension-Light Rail-planned,Sprague,planned,Light Rail,Light Rail,47.24276,-122.46663,870,972,3170,972,972,1046,3244
+G53023795,S3630470687,Fife-Tacoma Dome Link Extension-Light Rail-planned,Fife,planned,Light Rail,Light Rail,47.24456,-122.35181,61,455,532,455,455,745,822
+G53023970,S1257292393,Tacoma Community College-TCC Tacoma Link Extension-Light Rail-planned,Tacoma Community College,planned,Light Rail,Light Rail,47.24273,-122.52215,99,406,501,651,406,411,749
+G53070000,S3967888471,Union-TCC Tacoma Link Extension-Light Rail-planned,Union,planned,Light Rail,Light Rail,47.24284,-122.48275,572,775,2238,860,775,1003,2502
+G53070000,S2044338911,S. 25th-Orange Line (Tacoma Link)-Light Rail-existing,S. 25th,existing,Light Rail,Light Rail,47.2391,-122.43426,1,769,769,1538,769,769,1538
+G53070000,S3728641829,Tacoma Dome-Tacoma Dome Link Extension-Light Rail-planned,Tacoma Dome,planned,Light Rail,Light Rail,47.24149,-122.42805,177,496,496,815,496,496,815
+G53070000,S2035282728,Stevens-TCC Tacoma Link Extension-Light Rail-planned,Stevens,planned,Light Rail,Light Rail,47.24291,-122.49447,568,664,2270,666,664,702,2308
+G53070000,S4094137891,South 19 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 19 Street,planned,Bus Rapid Transit,Rapid Transit,47.24486,-122.43968,599,1532,1532,2433,1532,1532,2433
+G53070000,S3123467437,Union Station-S. 19th-Orange Line (Tacoma Link)-Streetcar-existing,Union Station-S. 19th,existing,Streetcar,Streetcar,47.24477,-122.43662,445,857,857,1320,857,857,1320
+G53070000,S2239721321,South 13 Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,South 13 Street,planned,Bus Rapid Transit,Rapid Transit,47.25101,-122.44107,884,2293,2293,3622,2293,2293,3622
+G53070000,S4237905433,Hilltop District-Link T Line-Streetcar-uc,Hilltop District,uc,Streetcar,Streetcar,47.25199,-122.45172,997,1744,1911,2453,1744,2213,2731
+G53070000,S1584456096,Convention Center-S. 15th-Orange Line (Tacoma Link)-Streetcar-existing,Convention Center-S. 15th,existing,Streetcar,Streetcar,47.2495,-122.43855,12,760,760,1520,760,760,1520
+G53070000,S2081865616,Commerce Street-S. 11th-Orange Line (Tacoma Link)-Streetcar-existing,Commerce Street-S. 11th,existing,Streetcar,Streetcar,47.25291,-122.43931,235,816,816,1412,816,816,1412
+G53070000,S3411302167,Northern Terminus - Commerce Street-Pacific Avenue/SR 7 BRT-Bus Rapid Transit-planned,Northern Terminus - Commerce Street,planned,Bus Rapid Transit,Rapid Transit,47.25534,-122.43994,1162,1817,1817,2358,1817,1817,2358
+G53070000,S2285172179,6th Avenue-Link T Line-Streetcar-uc,6th Avenue,uc,Streetcar,Streetcar,47.25726,-122.45292,673,3943,3999,7073,3943,4041,7167
+G53070000,S1180576956,Old City Hall-Link T Line-Streetcar-uc,Old City Hall,uc,Streetcar,Streetcar,47.25752,-122.44033,342,729,729,1178,729,729,1178
+G53070000,S159173960,Theater District-S. 9th-Orange Line (Tacoma Link)-Streetcar-existing,Theater District-S. 9th,existing,Streetcar,Streetcar,47.2562,-122.44,135,437,437,762,437,437,762
+G53070000,S3934609416,South 4th-Link T Line-Streetcar-uc,South 4th,uc,Streetcar,Streetcar,47.2612,-122.44262,1365,2126,2126,3010,2126,2126,3010
+G53070000,S3984413014,Tacoma General-Link T Line-Streetcar-uc,Tacoma General,uc,Streetcar,Streetcar,47.26052,-122.45363,549,2342,2540,4158,2342,2488,4410
+G53070000,S1841691744,Stadium District-Link T Line-Streetcar-uc,Stadium District,uc,Streetcar,Streetcar,47.26462,-122.44846,1972,2322,2566,2785,2322,2452,3043
+G53023515,S3296766132,South Federal Way-Tacoma Dome Link Extension-Light Rail-planned,South Federal Way,planned,Light Rail,Light Rail,47.28232,-122.30916,427,433,516,433,433,2404,2487
+G53003180,S1614302571,Auburn-RapidRide I-Arterial Rapid Transit-planned,Auburn,planned,Arterial Rapid Transit,Rapid Transit,47.30569,-122.23193,136,717,717,971,823,717,1077
+G53003180,S2240743357,East Main Street-RapidRide I-Arterial Rapid Transit-planned,East Main Street,planned,Arterial Rapid Transit,Rapid Transit,47.30756,-122.22572,971,2554,3211,3611,2610,2761,4486
+G53003180,S2936341948,Auburn-Sounder-Commuter Rail-existing,Auburn,existing,Commuter Rail,Commuter Rail,47.30614,-122.23223,384,1648,1648,2330,1648,1852,2449
+G53003180,S395188109,8 Street-RapidRide I-Arterial Rapid Transit-planned,8 Street,planned,Arterial Rapid Transit,Rapid Transit,47.3157,-122.22334,436,719,1073,1023,842,928,1604
+G53023515,S2150240106,Federal Way-Red Line (Federal Way Link)-Light Rail-uc,Federal Way,uc,Light Rail,Light Rail,47.31645,-122.30366,30,123,192,123,123,135,204
+G53023515,S1497966596,S 316-RapidRide A-Bus Rapid Transit-existing,S 316,existing,Bus Rapid Transit,Rapid Transit,47.31865,-122.31342,212,215,860,215,215,215,860
+G53023515,S1181996317,Federal Way Transit Center-RapidRide A-Bus Rapid Transit-existing,Federal Way Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.3178,-122.29915,76,652,766,1196,738,1100,1819
+G53003180,S156305329,15 Street-RapidRide I-Arterial Rapid Transit-planned,15 Street,planned,Arterial Rapid Transit,Rapid Transit,47.32089,-122.22148,363,685,1438,966,835,719,1889
+G53023515,S1493222912,S 312-RapidRide A-Bus Rapid Transit-existing,S 312,existing,Bus Rapid Transit,Rapid Transit,47.32236,-122.31337,281,460,820,672,460,715,1232
+G53023515,S1505041835,S 308-RapidRide A-Bus Rapid Transit-existing,S 308,existing,Bus Rapid Transit,Rapid Transit,47.32602,-122.3132,731,922,1834,1179,984,1242,2379
+G53003180,S156305493,22 Street-RapidRide I-Arterial Rapid Transit-planned,22 Street,planned,Arterial Rapid Transit,Rapid Transit,47.32646,-122.22153,602,1336,1509,2169,1336,1679,2563
+G53023515,S108760708,South Dash Point-RapidRide A-Bus Rapid Transit-existing,South Dash Point,existing,Bus Rapid Transit,Rapid Transit,47.33586,-122.31217,600,813,2550,1043,813,907,2850
+G53003180,S156305430,30 Street-RapidRide I-Arterial Rapid Transit-planned,30 Street,planned,Arterial Rapid Transit,Rapid Transit,47.33387,-122.22203,531,537,652,630,537,696,811
+G53003180,S156305393,37 Street-RapidRide I-Arterial Rapid Transit-planned,37 Street,planned,Arterial Rapid Transit,Rapid Transit,47.34023,-122.22234,544,664,711,788,664,680,838
+G53023515,S1504753314,S 288-RapidRide A-Bus Rapid Transit-existing,S 288,existing,Bus Rapid Transit,Rapid Transit,47.34341,-122.31231,653,735,2400,865,735,906,2640
+G53003180,S156305398,47 Street-RapidRide I-Arterial Rapid Transit-planned,47 Street,planned,Arterial Rapid Transit,Rapid Transit,47.34492,-122.2223,5,84,90,162,84,105,188
+G53023515,S1494589609,S 283-RapidRide A-Bus Rapid Transit-existing,S 283,existing,Bus Rapid Transit,Rapid Transit,47.34757,-122.31241,461,468,1389,507,468,500,1428
+G53003180,S156305720,49 Street-RapidRide I-Arterial Rapid Transit-planned,49 Street,planned,Arterial Rapid Transit,Rapid Transit,47.35121,-122.22704,39,813,813,1440,813,1147,1762
+G53023515,S1497887299,S 276-RapidRide A-Bus Rapid Transit-existing,S 276,existing,Bus Rapid Transit,Rapid Transit,47.35374,-122.31151,424,526,1605,630,526,526,1709
+G53035415,S783798966,S 272nd-Red Line (Federal Way Link)-Light Rail-uc,S 272nd,uc,Light Rail,Light Rail,47.35931,-122.29727,726,768,1555,772,785,1509,2313
+G53035415,S1493431111,S 272-RapidRide A-Bus Rapid Transit-existing,S 272,existing,Bus Rapid Transit,Rapid Transit,47.35798,-122.30941,155,264,664,375,295,264,806
+G53035415,S863109703,266 Street-RapidRide I-Arterial Rapid Transit-planned,266 Street,planned,Arterial Rapid Transit,Rapid Transit,47.36341,-122.22993,106,106,106,108,106,134,134
+G53035415,S1505117164,S 268-RapidRide A-Bus Rapid Transit-existing,S 268,existing,Bus Rapid Transit,Rapid Transit,47.36143,-122.30759,268,268,875,268,342,268,949
+G53035415,S1495629796,S 260-RapidRide A-Bus Rapid Transit-existing,S 260,existing,Bus Rapid Transit,Rapid Transit,47.36874,-122.30372,350,354,1047,359,459,391,1189
+G53035415,S1224239866,Kent High School-RapidRide I-Arterial Rapid Transit-planned,Kent High School,planned,Arterial Rapid Transit,Rapid Transit,47.37253,-122.20568,52,78,210,106,78,114,252
+G53035415,S863109796,256 Street-RapidRide I-Arterial Rapid Transit-planned,256 Street,planned,Arterial Rapid Transit,Rapid Transit,47.37309,-122.20241,110,355,497,402,355,602,755
+G53035415,S863121515,259 Street-RapidRide I-Arterial Rapid Transit-planned,259 Street,planned,Arterial Rapid Transit,Rapid Transit,47.37003,-122.22995,145,158,335,176,158,209,389
+G53035415,S1493363461,S 252-RapidRide A-Bus Rapid Transit-existing,S 252,existing,Bus Rapid Transit,Rapid Transit,47.37589,-122.29995,572,583,1821,595,583,612,1856
+G53035415,S863120395,248 Street-RapidRide I-Arterial Rapid Transit-planned,248 Street,planned,Arterial Rapid Transit,Rapid Transit,47.37972,-122.20233,1747,1997,4012,2193,1997,2288,4346
+G53035415,S1505184558,S 248-RapidRide A-Bus Rapid Transit-existing,S 248,existing,Bus Rapid Transit,Rapid Transit,47.37937,-122.29833,312,351,882,452,351,524,1069
+G53035415,S2082969009,Willis Street-RapidRide I-Arterial Rapid Transit-planned,Willis Street,planned,Arterial Rapid Transit,Rapid Transit,47.37778,-122.23062,575,1071,1704,1591,1071,1277,2320
+G53035415,S3707478650,Titus Street-RapidRide I-Arterial Rapid Transit-planned,Titus Street,planned,Arterial Rapid Transit,Rapid Transit,47.3834,-122.22568,515,518,1562,518,518,522,1566
+G53035415,S133329111,Kent-Sounder-Commuter Rail-existing,Kent,existing,Commuter Rail,Commuter Rail,47.38451,-122.233,799,2171,2398,3020,2171,2451,3497
+G53035415,S1495697190,S 240-RapidRide A-Bus Rapid Transit-existing,S 240,existing,Bus Rapid Transit,Rapid Transit,47.38656,-122.29649,467,1875,2288,2899,1961,2101,3543
+G53035415,S2715513237,Ward Street-RapidRide I-Arterial Rapid Transit-planned,Ward Street,planned,Arterial Rapid Transit,Rapid Transit,47.38251,-122.23108,24,195,195,390,195,195,390
+G53035415,S2217791522,Kent/Des Moines-Red Line (Federal Way Link)-Light Rail-uc,Kent/Des Moines,uc,Light Rail,Light Rail,47.38991,-122.29409,243,742,953,1242,742,742,1453
+G53035415,S863111683,240 Street-RapidRide I-Arterial Rapid Transit-planned,240 Street,planned,Arterial Rapid Transit,Rapid Transit,47.38692,-122.20224,380,569,995,797,569,825,1300
+G53035415,S863108641,235 Street-RapidRide I-Arterial Rapid Transit-planned,235 Street,planned,Arterial Rapid Transit,Rapid Transit,47.39092,-122.20222,541,563,1552,597,563,637,1633
+G53017635,S2062481089,Kent/Des Moines Road-RapidRide A-Bus Rapid Transit-existing,Kent/Des Moines Road,existing,Bus Rapid Transit,Rapid Transit,47.3938,-122.29485,289,1864,2309,2729,1864,2054,3206
+G53017635,S1500229732,S 224-RapidRide A-Bus Rapid Transit-existing,S 224,existing,Bus Rapid Transit,Rapid Transit,47.40095,-122.29753,453,2740,3357,5001,2740,3557,5668
+G53035415,S863120589,228 Street-RapidRide I-Arterial Rapid Transit-planned,228 Street,planned,Arterial Rapid Transit,Rapid Transit,47.39738,-122.20226,556,571,1867,571,571,571,1867
+G53035415,S863107521,224 Street-RapidRide I-Arterial Rapid Transit-planned,224 Street,planned,Arterial Rapid Transit,Rapid Transit,47.40143,-122.19934,697,704,1801,704,704,704,1801
+G53035415,S863109664,216 Street-RapidRide I-Arterial Rapid Transit-planned,216 Street,planned,Arterial Rapid Transit,Rapid Transit,47.40823,-122.19709,829,847,2748,847,847,847,2748
+G53062288,S1497963397,S 216-RapidRide A-Bus Rapid Transit-existing,S 216,existing,Bus Rapid Transit,Rapid Transit,47.4083,-122.29819,487,1877,2447,3317,2439,2755,4643
+G53062288,S1505040810,S 208-RapidRide A-Bus Rapid Transit-existing,S 208,existing,Bus Rapid Transit,Rapid Transit,47.41546,-122.29732,245,267,629,296,366,560,1021
+G53035415,S863120527,208 Street-RapidRide I-Arterial Rapid Transit-planned,208 Street,planned,Arterial Rapid Transit,Rapid Transit,47.41583,-122.19706,461,504,1459,576,504,617,1606
+G53062288,S1495553442,S 200-RapidRide A-Bus Rapid Transit-existing,S 200,existing,Bus Rapid Transit,Rapid Transit,47.42272,-122.29633,211,252,735,332,252,374,911
+G53057745,S863111815,200 Street-RapidRide I-Arterial Rapid Transit-planned,200 Street,planned,Arterial Rapid Transit,Rapid Transit,47.42314,-122.19706,557,596,1683,655,596,801,1888
+G53062288,S1501805517,S 195-RapidRide A-Bus Rapid Transit-existing,S 195,existing,Bus Rapid Transit,Rapid Transit,47.42635,-122.29589,124,135,479,154,135,241,585
+G53057745,S863114287,192 Street-RapidRide I-Arterial Rapid Transit-planned,192 Street,planned,Arterial Rapid Transit,Rapid Transit,47.43029,-122.19704,661,846,1763,1069,846,1194,2141
+G53062288,S1504756513,S 188-RapidRide A-Bus Rapid Transit-existing,S 188,existing,Bus Rapid Transit,Rapid Transit,47.43455,-122.29552,327,472,1315,631,472,474,1476
+G53057745,S863109898,186 Street-RapidRide I-Arterial Rapid Transit-planned,186 Street,planned,Arterial Rapid Transit,Rapid Transit,47.43651,-122.19704,423,433,1338,446,433,449,1354
+G53057745,S3173838794,103 Avenue-RapidRide I-Arterial Rapid Transit-planned,103 Avenue,planned,Arterial Rapid Transit,Rapid Transit,47.44288,-122.20367,277,277,459,277,277,411,593
+G53057745,S515663967,Valley Medical Center-RapidRide I-Arterial Rapid Transit-planned,Valley Medical Center,planned,Arterial Rapid Transit,Rapid Transit,47.44137,-122.21283,36,162,220,286,162,171,353
+G53057745,S863114254,182 Street-RapidRide I-Arterial Rapid Transit-planned,182 Street,planned,Arterial Rapid Transit,Rapid Transit,47.43988,-122.19695,370,371,1274,371,371,371,1274
+G53062288,S3096797341,S 180/182-RapidRide A-Bus Rapid Transit-existing,S 180/182,existing,Bus Rapid Transit,Rapid Transit,47.44058,-122.29596,345,345,360,345,345,345,360
+G53057745,S3426832050,South 48 Court-RapidRide I-Arterial Rapid Transit-planned,South 48 Court,planned,Arterial Rapid Transit,Rapid Transit,47.4458,-122.21117,156,192,532,229,192,201,578
+G53057745,S3173828929,108 Avenue-RapidRide I-Arterial Rapid Transit-planned,108 Avenue,planned,Arterial Rapid Transit,Rapid Transit,47.44528,-122.19762,355,482,916,525,482,967,1401
+G53062288,S1497892672,S 176-RapidRide A-Bus Rapid Transit-existing,S 176,existing,Bus Rapid Transit,Rapid Transit,47.44524,-122.29622,154,194,469,194,194,296,571
+G53062288,S1495664582,S 170-RapidRide A-Bus Rapid Transit-existing,S 170,existing,Bus Rapid Transit,Rapid Transit,47.45076,-122.29605,243,373,1045,485,373,462,1242
+G53057745,S1520963521,South 32 Street-RapidRide I-Arterial Rapid Transit-planned,South 32 Street,planned,Arterial Rapid Transit,Rapid Transit,47.45069,-122.21136,351,351,1116,351,351,351,1116
+G53072625,S387830826,Andover Park East-RapidRide F-Bus Rapid Transit-existing,Andover Park East,existing,Bus Rapid Transit,Rapid Transit,47.45577,-122.25,204,204,204,260,204,204,260
+G53062288,S1495628647,S 160-RapidRide A-Bus Rapid Transit-existing,S 160,existing,Bus Rapid Transit,Rapid Transit,47.45967,-122.29175,299,464,1071,672,464,768,1472
+G53057745,S1762234145,South 23 Street-RapidRide I-Arterial Rapid Transit-planned,South 23 Street,planned,Arterial Rapid Transit,Rapid Transit,47.45931,-122.21207,401,401,1400,401,401,401,1400
+G53072625,S3028049141,Tukwila International Boulevard-Stride S1-Bus Rapid Transit-planned,Tukwila International Boulevard,planned,Bus Rapid Transit,Rapid Transit,47.46323,-122.28793,278,322,501,379,322,541,720
+G53008850,S1888060521,2 Avenue S-RapidRide F-Bus Rapid Transit-existing,2 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46328,-122.33039,621,758,914,820,758,942,1113
+G53062288,S1836126310,Des Moines Memorial Drive S-RapidRide F-Bus Rapid Transit-existing,Des Moines Memorial Drive S,existing,Bus Rapid Transit,Rapid Transit,47.46329,-122.32343,299,425,685,477,433,540,853
+G53008850,S3220110840,4 Avenue SW-RapidRide F-Bus Rapid Transit-existing,4 Avenue SW,existing,Bus Rapid Transit,Rapid Transit,47.46325,-122.33908,801,1186,1393,1475,1186,1393,1720
+G53057745,S495470467,Boeing Commercial Airplane Group-RapidRide F-Bus Rapid Transit-existing,Boeing Commercial Airplane Group,existing,Bus Rapid Transit,Rapid Transit,47.46219,-122.23286,0,0,0,0,0,0,0
+G53072625,S2176455101,42 Avenue S-RapidRide F-Bus Rapid Transit-existing,42 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.4659,-122.28127,488,593,1300,649,583,822,1529
+G53008850,S1888060522,1 Avenue S-RapidRide F-Bus Rapid Transit-existing,1 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46327,-122.33392,207,229,229,282,229,270,287
+G53072625,S2176455100,52 Avenue S-RapidRide F-Bus Rapid Transit-existing,52 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46513,-122.26905,432,439,905,462,961,462,1450
+G53008850,S720899638,SW 152-RapidRide F-Bus Rapid Transit-existing,SW 152,existing,Bus Rapid Transit,Rapid Transit,47.46678,-122.34504,1190,3807,5251,5713,3807,4040,7306
+G53072625,S1205527351,The Boulevard at South Station-RapidRide F-Bus Rapid Transit-existing,The Boulevard at South Station,existing,Bus Rapid Transit,Rapid Transit,47.46622,-122.27705,290,290,1126,290,290,290,1126
+G53057745,S919352062,South Puget Drive-RapidRide I-Arterial Rapid Transit-planned,South Puget Drive,planned,Arterial Rapid Transit,Rapid Transit,47.46658,-122.20783,109,123,355,146,123,150,382
+G53072625,S1487826667,Baker Boulevard-RapidRide F-Bus Rapid Transit-existing,Baker Boulevard,existing,Bus Rapid Transit,Rapid Transit,47.45823,-122.25435,18,57,57,114,57,57,114
+G53072625,S2176455192,65 Avenue S-RapidRide F-Bus Rapid Transit-existing,65 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46251,-122.25186,40,40,60,40,40,56,76
+G53057745,S1931196819,South Renton Transit Center-Stride S1-Bus Rapid Transit-planned,South Renton Transit Center,planned,Bus Rapid Transit,Rapid Transit,47.46814,-122.21376,132,132,437,132,132,132,437
+G53072625,S2176455103,62 Avenue S-RapidRide F-Bus Rapid Transit-existing,62 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46268,-122.25633,116,116,234,135,201,136,339
+G53072625,S178533331,Tukwila International Blvd-Red Line (Central Link)-Light Rail-existing,Tukwila International Blvd,existing,Light Rail,Light Rail,47.46392,-122.28774,112,204,204,275,204,363,363
+G53062288,S2176455098,32 Avenue S-RapidRide F-Bus Rapid Transit-existing,32 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46515,-122.29153,416,1247,1795,1850,1247,2805,3791
+G53062288,S2176455293,24 Avenue S-RapidRide F-Bus Rapid Transit-existing,24 Avenue S,existing,Bus Rapid Transit,Rapid Transit,47.46512,-122.30288,98,99,393,99,99,99,393
+G53008850,S1485321903,Burien Transit Center-RapidRide F-Bus Rapid Transit-existing,Burien Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.47043,-122.33709,313,595,1454,793,595,614,1666
+G53057745,S1768405769,SW Grady-RapidRide F-Bus Rapid Transit-existing,SW Grady,existing,Bus Rapid Transit,Rapid Transit,47.46983,-122.22331,48,74,74,102,74,74,102
+G53057745,S961714962,Grady Way-RapidRide I-Arterial Rapid Transit-planned,Grady Way,planned,Arterial Rapid Transit,Rapid Transit,47.47285,-122.20887,518,756,1100,855,756,1084,1448
+G53057745,S3454067364,South Renton Park and Ride-RapidRide F-Bus Rapid Transit-existing,South Renton Park and Ride,existing,Bus Rapid Transit,Rapid Transit,47.47375,-122.21607,35,56,56,97,56,61,100
+G53057745,S3395759523,S 4-RapidRide F-Bus Rapid Transit-existing,S 4,existing,Bus Rapid Transit,Rapid Transit,47.47658,-122.21535,73,155,162,243,155,263,335
+G53057745,S390952695,SW 7-RapidRide F-Bus Rapid Transit-existing,SW 7,existing,Bus Rapid Transit,Rapid Transit,47.47375,-122.22328,189,215,522,230,215,279,586
+G53057745,S778852035,Shattuck-RapidRide F-Bus Rapid Transit-existing,Shattuck,existing,Bus Rapid Transit,Rapid Transit,47.47976,-122.21322,181,804,822,1336,804,973,1498
+G53057745,S1497404932,Renton Transit Center-RapidRide F-Bus Rapid Transit-existing,Renton Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.48125,-122.20912,1240,2487,2597,3990,2487,2580,4175
+G53057745,S3395765049,N 3-RapidRide F-Bus Rapid Transit-existing,N 3,existing,Bus Rapid Transit,Rapid Transit,47.48704,-122.20854,546,783,1076,1036,783,867,1413
+G53057745,S3395761724,N 6-RapidRide F-Bus Rapid Transit-existing,N 6,existing,Bus Rapid Transit,Rapid Transit,47.4921,-122.20738,282,292,402,292,292,359,469
+G53057745,S1273236346,The Landing-RapidRide F-Bus Rapid Transit-existing,The Landing,existing,Bus Rapid Transit,Rapid Transit,47.49811,-122.20081,155,191,293,191,191,296,398
+G53057745,S391045515,N 10-RapidRide F-Bus Rapid Transit-existing,N 10,existing,Bus Rapid Transit,Rapid Transit,47.49817,-122.20605,1,1,1,1,1,1,1
+G53072625,S4169951618,South Boeing Access Road-Link 1 Line-Light Rail-planned,South Boeing Access Road,planned,Light Rail,Light Rail,47.50729,-122.2823,128,128,406,128,160,128,438
+G53063000,S221290123,20th Avenue-RapidRide H-Bus Rapid Transit-proposed,20th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.51735,-122.35921,421,706,831,1101,706,1682,2034
+G53063000,S102634087,35-RapidRide C-Bus Rapid Transit-existing,35,existing,Bus Rapid Transit,Rapid Transit,47.52107,-122.37676,1810,2132,4187,2640,2132,2230,4695
+G53063000,S102634080,45-RapidRide C-Bus Rapid Transit-existing,45,existing,Bus Rapid Transit,Rapid Transit,47.52078,-122.3902,554,601,1363,692,601,623,1458
+G53063000,S3248357563,California-RapidRide C-Bus Rapid Transit-existing,California,existing,Bus Rapid Transit,Rapid Transit,47.56112,-122.38678,3203,3738,5334,4567,3738,3941,6219
+G53063000,S167552491,Rainier Beach-Red Line (Central Link)-Light Rail-existing,Rainier Beach,existing,Light Rail,Light Rail,47.52238,-122.27942,1635,3216,4605,4307,3346,3580,6041
+G53063000,S1737913377,SW Barton-RapidRide C-Bus Rapid Transit-existing,SW Barton,existing,Bus Rapid Transit,Rapid Transit,47.5232,-122.39305,201,205,546,205,205,205,546
+G53063000,S221290286,25th Avenue-RapidRide H-Bus Rapid Transit-proposed,25th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.52101,-122.36465,314,544,721,819,544,630,1014
+G53063000,S1444897563,Westwood Village-RapidRide C-Bus Rapid Transit-existing,Westwood Village,existing,Bus Rapid Transit,Rapid Transit,47.52102,-122.36738,150,181,478,222,181,201,519
+G53063000,S934348127,SW Henderson-RapidRide H-Bus Rapid Transit-proposed,SW Henderson,proposed,Bus Rapid Transit,Rapid Transit,47.52294,-122.3604,736,973,1382,1411,973,1146,1833
+G53057745,S2291850090,Northeast 44-Stride S1-Bus Rapid Transit-planned,Northeast 44,planned,Bus Rapid Transit,Rapid Transit,47.53227,-122.19746,344,400,988,400,400,580,1168
+G53063000,S3579694214,SW Thistle-RapidRide H-Bus Rapid Transit-proposed,SW Thistle,proposed,Bus Rapid Transit,Rapid Transit,47.52832,-122.3604,943,1032,1884,1256,1032,1093,2111
+G53063000,S1168298094,SW Rose-RapidRide C-Bus Rapid Transit-existing,SW Rose,existing,Bus Rapid Transit,Rapid Transit,47.52976,-122.3927,447,448,841,448,448,448,841
+G53063000,S3713038521,SW Holden-RapidRide H-Bus Rapid Transit-proposed,SW Holden,proposed,Bus Rapid Transit,Rapid Transit,47.53355,-122.36039,1025,1190,1920,1407,1190,1262,2151
+G53063000,S3302331061,Othello-Red Line (Central Link)-Light Rail-existing,Othello,existing,Light Rail,Light Rail,47.53815,-122.28167,1823,3018,4598,3834,3018,3567,5694
+G53063000,S3730083365,SW Webster-RapidRide C-Bus Rapid Transit-existing,SW Webster,existing,Bus Rapid Transit,Rapid Transit,47.53591,-122.39247,456,642,1038,699,642,722,1165
+G53063000,S701142526,SW Myrtle-RapidRide C-Bus Rapid Transit-existing,SW Myrtle,existing,Bus Rapid Transit,Rapid Transit,47.53974,-122.39068,928,1003,1812,1218,1003,1085,2027
+G53063000,S211781286,SW Myrtle-RapidRide H-Bus Rapid Transit-proposed,SW Myrtle,proposed,Bus Rapid Transit,Rapid Transit,47.53919,-122.36093,672,692,1405,718,692,716,1441
+G53063000,S2745647335,South Graham Street-Link 1 Line-Light Rail-planned,South Graham Street,planned,Light Rail,Light Rail,47.54609,-122.2856,1640,3005,4367,3600,3005,3495,5319
+G53063000,S97980399,Fauntleroy Way SW-RapidRide C-Bus Rapid Transit-existing,Fauntleroy Way SW,existing,Bus Rapid Transit,Rapid Transit,47.54471,-122.38834,2905,3461,4586,4379,3461,3794,5541
+G53033805,S700365787,Central Issaquah-South Kirkland-Issaquah Link-Light Rail-planned,Central Issaquah-South Kirkland,planned,Light Rail,Light Rail,47.54794,-122.06318,33,33,101,33,33,33,101
+G53063000,S1493436643,SW Holly-RapidRide H-Bus Rapid Transit-proposed,SW Holly,proposed,Bus Rapid Transit,Rapid Transit,47.54297,-122.36119,355,360,942,360,360,360,942
+G53063000,S160919853,SW Graham-RapidRide H-Bus Rapid Transit-proposed,SW Graham,proposed,Bus Rapid Transit,Rapid Transit,47.54674,-122.36293,632,836,1132,857,836,1194,1502
+G53063000,S4239585140,SW Findlay-RapidRide C-Bus Rapid Transit-existing,SW Findlay,existing,Bus Rapid Transit,Rapid Transit,47.55211,-122.38704,1898,2276,3510,2782,2276,2457,4081
+G53063000,S1070358700,SW Findlay-RapidRide H-Bus Rapid Transit-proposed,SW Findlay,proposed,Bus Rapid Transit,Rapid Transit,47.55194,-122.36298,1090,1508,2184,2066,1508,1711,2764
+G53063000,S145287161,Columbia City-Red Line (Central Link)-Light Rail-existing,Columbia City,existing,Light Rail,Light Rail,47.55984,-122.29277,2751,4230,5387,5289,4230,5241,7117
+G53063000,S2765979172,Fauntleroy-RapidRide C-Bus Rapid Transit-existing,Fauntleroy,existing,Bus Rapid Transit,Rapid Transit,47.56107,-122.3818,1413,1725,2193,2138,1725,1838,2632
+G53063000,S1513068342,SW Hudson-RapidRide H-Bus Rapid Transit-proposed,SW Hudson,proposed,Bus Rapid Transit,Rapid Transit,47.55744,-122.36289,617,696,1254,870,696,734,1428
+G53063000,S1470314101,Alaska Junction-West Seattle Link Extension-Light Rail-planned,Alaska Junction,planned,Light Rail,Light Rail,47.55936,-122.38567,1551,2079,2366,2997,2079,2231,3296
+G53063000,S674486270,SW Avalon-RapidRide C-Bus Rapid Transit-existing,SW Avalon,existing,Bus Rapid Transit,Rapid Transit,47.56407,-122.37621,2158,2525,2611,3239,2525,2581,3325
+G53063000,S3019114023,SW Genesee-RapidRide H-Bus Rapid Transit-proposed,SW Genesee,proposed,Bus Rapid Transit,Rapid Transit,47.56478,-122.36332,205,246,388,326,246,274,468
+G53063000,S733423198,Delridge-West Seattle Link Extension-Light Rail-planned,Delridge,planned,Light Rail,Light Rail,47.56572,-122.36491,330,386,405,734,386,457,753
+G53063000,S547331605,Avalon-West Seattle Link Extension-Light Rail-planned,Avalon,planned,Light Rail,Light Rail,47.56472,-122.37648,688,688,1106,709,688,695,1127
+G53063000,S3071347240,Bradford/Yancy-RapidRide C-Bus Rapid Transit-existing,Bradford/Yancy,existing,Bus Rapid Transit,Rapid Transit,47.5684,-122.37081,979,1463,1677,2249,1495,1618,2519
+G53063000,S3184407608,SW Andover-RapidRide H-Bus Rapid Transit-proposed,SW Andover,proposed,Bus Rapid Transit,Rapid Transit,47.56835,-122.36326,347,520,665,774,520,633,933
+G53063000,S2508948126,Mount Baker-Red Line (Central Link)-Light Rail-existing,Mount Baker,existing,Light Rail,Light Rail,47.5764,-122.29757,2345,3522,4486,4289,3522,3788,5443
+G53063000,S2094549545,Beacon Hill-Red Line (Central Link)-Light Rail-existing,Beacon Hill,existing,Light Rail,Light Rail,47.57929,-122.31164,2545,4326,5514,6137,4326,5249,7607
+G53005210,S2863156329,Eastgate-South Kirkland-Issaquah Link-Light Rail-planned,Eastgate-South Kirkland,planned,Light Rail,Light Rail,47.57928,-122.14612,529,533,2070,535,533,550,2087
+G53005210,S4033276049,Richards Road-South Kirkland-Issaquah Link-Light Rail-planned,Richards Road-South Kirkland,planned,Light Rail,Light Rail,47.58027,-122.16888,523,532,1236,539,532,653,1357
+G53063000,S1299318075,Sodo-Red Line (Central Link)-Light Rail-existing,Sodo,existing,Light Rail,Light Rail,47.58119,-122.3274,0,0,0,0,0,0,0
+G53005210,S2145863381,South Bellevue-Blue Line (East Link)-Light Rail-uc,South Bellevue,uc,Light Rail,Light Rail,47.58656,-122.19042,515,515,2021,515,515,531,2037
+G53045005,S4066841591,Mercer Island-Blue Line (East Link)-Light Rail-uc,Mercer Island,uc,Light Rail,Light Rail,47.58818,-122.2332,1107,1927,2831,2583,1965,2036,3614
+G53063000,S2221922088,Judkins Park-Blue Line (East Link)-Light Rail-uc,Judkins Park,uc,Light Rail,Light Rail,47.59029,-122.30444,2275,4484,4818,5329,4484,5438,6413
+G53063000,S2730723065,SODO-West Seattle Link Extension-Light Rail-planned,SODO,planned,Light Rail,Light Rail,47.58187,-122.32753,1,1,1,1,1,1,1
+G53063000,S1506955455,Stadium-Red Line (Central Link)-Light Rail-existing,Stadium,existing,Light Rail,Light Rail,47.59106,-122.32716,558,568,570,568,568,582,584
+G53063000,S2290114498,12th/Jackson-Little Saigon-First Hill Line-Streetcar-existing,12th/Jackson-Little Saigon,existing,Streetcar,Streetcar,47.5992,-122.31587,116,435,435,821,435,449,827
+G53063000,S3691385775,International District-Chinatown-Ballard Link Extension-Light Rail-planned,International District-Chinatown,planned,Light Rail,Light Rail,47.59849,-122.32766,140,140,140,140,140,140,140
+G53063000,S1845052633,14th/Washington-Central District-First Hill Line-Streetcar-existing,14th/Washington-Central District,existing,Streetcar,Streetcar,47.60067,-122.31417,2352,3757,3931,4676,3757,4350,5211
+G53063000,S3175648744,7th/Jackson-Chinatown-First Hill Line-Streetcar-existing,7th/Jackson-Chinatown,existing,Streetcar,Streetcar,47.5992,-122.32346,1192,1192,1192,1192,1192,1192,1192
+G53063000,S2073659379,5th/Jackson-Japantown-First Hill Line-Streetcar-existing,5th/Jackson-Japantown,existing,Streetcar,Streetcar,47.5992,-122.327,940,940,940,940,940,940,940
+G53063000,S3230223454,Yesler/Broadway-Yesler Terrace-First Hill Line-Streetcar-existing,Yesler/Broadway-Yesler Terrace,existing,Streetcar,Streetcar,47.60169,-122.32008,823,1016,1016,1452,1016,1063,1453
+G53063000,S208336594,International District-Chinatown-Red Line (Central Link)-Light Rail-existing,International District-Chinatown,existing,Light Rail,Light Rail,47.59843,-122.32801,585,585,585,585,585,585,585
+G53063000,S2066597457,Terrace Street-RapidRide D-Bus Rapid Transit-existing,Terrace Street,existing,Bus Rapid Transit,Rapid Transit,47.60228,-122.3279,506,905,905,1624,905,905,1624
+G53005210,S3496386732,East Main-Blue Line (East Link)-Light Rail-uc,East Main,uc,Light Rail,Light Rail,47.60849,-122.19119,792,879,1689,1085,879,983,1998
+G53063000,S3053210151,Pioneer Square-Red Line (Central Link)-Light Rail-existing,Pioneer Square,existing,Light Rail,Light Rail,47.60276,-122.33144,76,343,343,621,343,343,621
+G53063000,S3365633034,Prefontaine Place-RapidRide D-Bus Rapid Transit-existing,Prefontaine Place,existing,Bus Rapid Transit,Rapid Transit,47.60189,-122.33066,10,18,18,36,18,18,36
+G53063000,S2896125354,1st & Cherry-Columbia/Pioneer Square-Center City Connector-Streetcar-proposed,1st & Cherry-Columbia/Pioneer Square,proposed,Streetcar,Streetcar,47.60283,-122.3345,453,487,487,522,487,487,522
+G53063000,S659696837,Broadway/Terrace-First Hill-First Hill Line-Streetcar-existing,Broadway/Terrace-First Hill,existing,Streetcar,Streetcar,47.60517,-122.32079,2005,3154,3154,4962,3154,3230,4968
+G53063000,S1842716371,Columbia-RapidRide C-Bus Rapid Transit-existing,Columbia,existing,Bus Rapid Transit,Rapid Transit,47.60419,-122.33275,132,2312,2312,4624,2312,2312,4624
+G53063000,S4292623553,Terry Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,Terry Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.60907,-122.32582,2713,8318,8318,14820,8318,8341,14843
+G53063000,S418039821,8th Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,8th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.60796,-122.32845,2217,4279,4279,7191,4279,4288,7200
+G53063000,S418052812,3rd Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,3rd Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.60543,-122.33449,1,1720,1720,3440,1720,1720,3440
+G53063000,S2093085291,1st & Madison/Spring-Center City Connector-Streetcar-proposed,1st & Madison/Spring,proposed,Streetcar,Streetcar,47.60504,-122.33655,855,1038,1038,1282,1038,1038,1282
+G53063000,S3367372691,Midtown-Ballard Link Extension-Light Rail-planned,Midtown,planned,Light Rail,Light Rail,47.60615,-122.33145,128,547,547,1094,547,547,1094
+G53063000,S418039808,5th Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,5th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.60682,-122.33119,107,2217,2217,4434,2217,2217,4434
+G53063000,S3566781324,1st & Pike/Pine-Center City Connector-Streetcar-proposed,1st & Pike/Pine,proposed,Streetcar,Streetcar,47.60931,-122.34046,3139,3599,3599,4401,3599,3599,4401
+G53063000,S138986857,University Street-Red Line (Central Link)-Light Rail-existing,University Street,existing,Light Rail,Light Rail,47.60783,-122.33602,254,3375,3375,6750,3375,3375,6750
+G53005210,S296332200,Bellevue Transit Center-RapidRide B-Bus Rapid Transit-existing,Bellevue Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.61551,-122.19462,1711,3736,3893,4461,3736,3737,4619
+G53063000,S1918538693,Broadway/Marion-First Hill-First Hill Line-Streetcar-existing,Broadway/Marion-First Hill,existing,Streetcar,Streetcar,47.60999,-122.32081,128,487,487,878,487,527,878
+G53063000,S910411990,12th Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,12th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61284,-122.31677,2425,3102,3102,4320,3102,3405,4412
+G53063000,S910411891,17th Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,17th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61561,-122.31015,4621,5420,5562,6606,5420,5980,6951
+G53063000,S96590518,Pike-RapidRide C-Bus Rapid Transit-existing,Pike,existing,Bus Rapid Transit,Rapid Transit,47.60978,-122.3378,640,811,811,984,822,811,995
+G53005210,S3565563485,148-RapidRide B-Bus Rapid Transit-existing,148,existing,Bus Rapid Transit,Rapid Transit,47.61704,-122.14308,498,500,1555,501,500,669,1724
+G53005210,S3565555926,143-RapidRide B-Bus Rapid Transit-existing,143,existing,Bus Rapid Transit,Rapid Transit,47.61712,-122.14958,334,334,999,334,334,385,1050
+G53063000,S910811459,22nd Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,22nd Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61849,-122.30357,2856,3995,4194,5219,3995,4510,5659
+G53005210,S3163764650,131/134-RapidRide B-Bus Rapid Transit-existing,131/134,existing,Bus Rapid Transit,Rapid Transit,47.61722,-122.16364,340,340,1219,340,340,364,1243
+G53005210,S3565554773,140-RapidRide B-Bus Rapid Transit-existing,140,existing,Bus Rapid Transit,Rapid Transit,47.61716,-122.15358,226,244,682,246,244,291,729
+G53063000,S3325412519,3rd & Stewart-Center City Connector-Streetcar-proposed,3rd & Stewart,proposed,Streetcar,Streetcar,47.6116,-122.33943,299,960,960,1892,960,960,1892
+G53063000,S3926191399,Westlake-Ballard Link Extension-Light Rail-planned,Westlake,planned,Light Rail,Light Rail,47.61119,-122.33608,2778,3723,3723,4993,4024,3723,5294
+G53063000,S1699909316,Virginia-RapidRide C-Bus Rapid Transit-existing,Virginia,existing,Bus Rapid Transit,Rapid Transit,47.61243,-122.34087,2343,2880,2880,3548,2880,2880,3548
+G53063000,S1946543191,Boylston Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,Boylston Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61075,-122.32176,2639,4867,4867,8102,4867,4877,8102
+G53005210,S238653642,NE 10-RapidRide B-Bus Rapid Transit-existing,NE 10,existing,Bus Rapid Transit,Rapid Transit,47.61871,-122.13244,411,413,1105,416,413,421,1113
+G53063000,S156310944,Bell Street-RapidRide D-Bus Rapid Transit-existing,Bell Street,existing,Bus Rapid Transit,Rapid Transit,47.6147,-122.34479,2964,3049,3049,3279,3049,3049,3279
+G53005210,S3565554707,120-RapidRide B-Bus Rapid Transit-existing,120,existing,Bus Rapid Transit,Rapid Transit,47.61729,-122.18031,43,70,70,90,70,92,112
+G53005210,S3565559063,124-RapidRide B-Bus Rapid Transit-existing,124,existing,Bus Rapid Transit,Rapid Transit,47.61733,-122.17496,351,355,888,359,355,370,903
+G53005210,S1872643088,Bellevue Downtown-Blue Line (East Link)-Light Rail-uc,Bellevue Downtown,uc,Light Rail,Light Rail,47.61522,-122.19202,519,1190,1224,2076,1190,1190,2110
+G53063000,S155797971,Vine Street-RapidRide D-Bus Rapid Transit-existing,Vine Street,existing,Bus Rapid Transit,Rapid Transit,47.61659,-122.34801,8444,8927,8927,9405,8927,8927,9405
+G53063000,S564231695,Broadway/Pike/Pine-Capitol Hill-First Hill Line-Streetcar-existing,Broadway/Pike/Pine-Capitol Hill,existing,Streetcar,Streetcar,47.61432,-122.32081,3672,3992,3992,4819,3992,4132,4844
+G53063000,S910411795,24th Avenue-Madison RapidRide G-Bus Rapid Transit-proposed,24th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.62012,-122.30114,1406,1557,1809,2006,1557,1750,2278
+G53063000,S1041866010,Westlake-Red Line (Central Link)-Light Rail-existing,Westlake,existing,Light Rail,Light Rail,47.61166,-122.33652,224,656,656,1312,656,656,1312
+G53063000,S2322798135,9th Avenue-Roosevelt RapidRide-Bus Rapid Transit-proposed,9th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61672,-122.33531,6019,8452,8452,11654,8452,8453,11655
+G53063000,S2322798136,6th Avenue-Roosevelt RapidRide-Bus Rapid Transit-proposed,6th Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.61463,-122.33802,656,731,731,808,731,731,808
+G53063000,S2878452211,Westlake/7th-South Lake Union Line-Streetcar-existing,Westlake/7th,existing,Streetcar,Streetcar,47.61507,-122.33781,658,1485,1485,2615,1485,1485,2615
+G53063000,S2046264017,Denny Way-RapidRide D-Bus Rapid Transit-existing,Denny Way,existing,Bus Rapid Transit,Rapid Transit,47.61859,-122.35537,2656,3268,3268,4514,3268,3268,4514
+G53063000,S2957132520,Martin Luther King Jr. Way-Madison RapidRide G-Bus Rapid Transit-proposed,Martin Luther King Jr. Way,proposed,Bus Rapid Transit,Rapid Transit,47.62333,-122.2964,1769,2089,2857,2579,2089,2205,3371
+G53063000,S853985001,Denny-Ballard Link Extension-Light Rail-planned,Denny,planned,Light Rail,Light Rail,47.61829,-122.33954,999,999,999,999,999,999,999
+G53063000,S247469277,Broadway/Denny-Capitol Hill-First Hill Line-Streetcar-existing,Broadway/Denny-Capitol Hill,existing,Streetcar,Streetcar,47.61805,-122.32094,6991,7652,7652,8991,7652,7721,9013
+G53063000,S2685277008,Denny Way-RapidRide E-Bus Rapid Transit-existing,Denny Way,existing,Bus Rapid Transit,Rapid Transit,47.61856,-122.34364,3184,3712,3712,4662,3712,3712,4662
+G53063000,S1677479846,Capitol Hill-Red Line (University Link)-Light Rail-existing,Capitol Hill,existing,Light Rail,Light Rail,47.61908,-122.32019,8332,10228,10238,12883,10228,11036,13276
+G53063000,S1192341864,Westlake/Denny-9th-South Lake Union Line-Streetcar-existing,Westlake/Denny-9th,existing,Streetcar,Streetcar,47.61802,-122.33838,410,508,508,620,508,508,620
+G53063000,S3825232333,Harrison Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,Harrison Street,proposed,Bus Rapid Transit,Rapid Transit,47.62202,-122.33433,3677,12883,12883,24498,12883,12883,24498
+G53063000,S3210820633,Denny-RapidRide C-Bus Rapid Transit-existing,Denny,existing,Bus Rapid Transit,Rapid Transit,47.61857,-122.33854,417,949,949,1898,949,949,1898
+G53063000,S3438230004,South Lake Union-Ballard Link Extension-Light Rail-planned,South Lake Union,planned,Light Rail,Light Rail,47.62192,-122.3423,1496,3373,3373,5552,3373,3378,5557
+G53063000,S1683692964,Seattle Center-Ballard Link Extension-Light Rail-planned,Seattle Center,planned,Light Rail,Light Rail,47.62317,-122.35858,993,1128,1128,1848,1128,1128,1848
+G53005210,S1042310128,Bel-Red/130th-Blue Line (East Link)-Light Rail-uc,Bel-Red/130th,uc,Light Rail,Light Rail,47.62447,-122.16578,15,75,90,90,75,75,105
+G53063000,S4048736436,Westlake/Thomas-South Lake Union Line-Streetcar-existing,Westlake/Thomas,existing,Streetcar,Streetcar,47.62146,-122.33846,937,1491,1491,2578,1491,1491,2578
+G53063000,S3634300042,Terry/Thomas-South Lake Union Line-Streetcar-existing,Terry/Thomas,existing,Streetcar,Streetcar,47.62139,-122.33721,131,259,259,518,259,259,518
+G53005210,S242211087,NE 15-RapidRide B-Bus Rapid Transit-existing,NE 15,existing,Bus Rapid Transit,Rapid Transit,47.62332,-122.13242,158,169,470,176,169,221,522
+G53063000,S3255061630,Republican Street-RapidRide D-Bus Rapid Transit-existing,Republican Street,existing,Bus Rapid Transit,Rapid Transit,47.62327,-122.35541,1612,2222,2240,3497,2222,2261,3546
+G53063000,S3637736163,Yale Avenue-Roosevelt RapidRide-Bus Rapid Transit-proposed,Yale Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.62874,-122.3309,3479,4815,4826,6108,4815,4922,6181
+G53063000,S3988523510,Westlake/Mercer-South Lake Union Line-Streetcar-existing,Westlake/Mercer,existing,Streetcar,Streetcar,47.62428,-122.33845,42,129,129,258,129,129,258
+G53063000,S1973296122,3rd Avenue West-RapidRide D-Bus Rapid Transit-existing,3rd Avenue West,existing,Bus Rapid Transit,Rapid Transit,47.62459,-122.36061,4102,4717,4900,6568,4739,4833,6811
+G53063000,S3855275016,Terry/Mercer-South Lake Union Line-Streetcar-existing,Terry/Mercer,existing,Streetcar,Streetcar,47.62432,-122.33719,32,129,129,258,129,129,258
+G53063000,S1052475396,Fairview-Campus-South Lake Union Line-Streetcar-existing,Fairview-Campus,existing,Streetcar,Streetcar,47.62751,-122.33251,479,1936,1936,2281,1936,1936,2281
+G53063000,S4107866140,Fairview Avenue-RapidRide C-Bus Rapid Transit-existing,Fairview Avenue,existing,Bus Rapid Transit,Rapid Transit,47.62668,-122.33351,74,1106,1106,2212,1106,1106,2212
+G53063000,S1328881380,Queen Anne Avenue-RapidRide D-Bus Rapid Transit-existing,Queen Anne Avenue,existing,Bus Rapid Transit,Rapid Transit,47.62458,-122.3567,2408,3395,3544,4620,3395,3485,4802
+G53063000,S678094153,Garfield Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,Garfield Street,proposed,Bus Rapid Transit,Rapid Transit,47.63387,-122.32558,1354,1835,2110,2452,1835,2062,2835
+G53063000,S2457998447,Mercer-RapidRide C-Bus Rapid Transit-existing,Mercer,existing,Bus Rapid Transit,Rapid Transit,47.62462,-122.33851,1209,2175,2175,3901,2175,2175,3901
+G53063000,S1200924346,Galer-RapidRide E-Bus Rapid Transit-existing,Galer,existing,Bus Rapid Transit,Rapid Transit,47.63233,-122.34346,4715,9711,9829,14860,9817,10168,15235
+G53005210,S1923670588,Bel-Red/24-RapidRide B-Bus Rapid Transit-existing,Bel-Red/24,existing,Bus Rapid Transit,Rapid Transit,47.63158,-122.13309,219,477,831,736,477,493,1097
+G53063000,S448950447,West Prospect-RapidRide D-Bus Rapid Transit-existing,West Prospect,existing,Bus Rapid Transit,Rapid Transit,47.62866,-122.37106,752,774,1066,849,774,803,1141
+G53005210,S3132888947,Spring District/120th-Blue Line (East Link)-Light Rail-uc,Spring District/120th,uc,Light Rail,Light Rail,47.62378,-122.17859,4,115,115,115,115,115,115
+G53063000,S1609418542,West Galer-RapidRide D-Bus Rapid Transit-existing,West Galer,existing,Bus Rapid Transit,Rapid Transit,47.63229,-122.3757,86,88,103,88,88,89,104
+G53063000,S166116690,Lynn-RapidRide E-Bus Rapid Transit-existing,Lynn,existing,Bus Rapid Transit,Rapid Transit,47.63914,-122.34558,3194,3664,4010,4474,3814,4010,5047
+G53057535,S237539657,NE 31-RapidRide B-Bus Rapid Transit-existing,NE 31,existing,Bus Rapid Transit,Rapid Transit,47.63812,-122.13236,92,92,368,92,92,92,368
+G53057535,S3415064724,Overlake Park and Ride-RapidRide B-Bus Rapid Transit-existing,Overlake Park and Ride,existing,Bus Rapid Transit,Rapid Transit,47.63358,-122.13769,38,74,74,148,74,74,148
+G53063000,S3396049082,Newton/Armory-RapidRide D-Bus Rapid Transit-existing,Newton/Armory,existing,Bus Rapid Transit,Rapid Transit,47.63663,-122.37621,731,942,949,1235,942,1145,1380
+G53063000,S3328369285,Smith Cove-Ballard Link Extension-Light Rail-planned,Smith Cove,planned,Light Rail,Light Rail,47.63318,-122.37802,69,75,75,75,75,78,78
+G53057535,S449264181,Overlake Village-Blue Line (East Link)-Light Rail-uc,Overlake Village,uc,Light Rail,Light Rail,47.63681,-122.13818,1,1,4,1,1,1,4
+G53063000,S3096250730,Lynn Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,Lynn Street,proposed,Bus Rapid Transit,Rapid Transit,47.63973,-122.3259,3479,4213,4310,5563,4213,4631,5717
+G53057535,S238691567,NE 40-RapidRide B-Bus Rapid Transit-existing,NE 40,existing,Bus Rapid Transit,Rapid Transit,47.64597,-122.14293,162,162,414,162,162,206,458
+G53063000,S1405184343,West Wheeler-RapidRide D-Bus Rapid Transit-existing,West Wheeler,existing,Bus Rapid Transit,Rapid Transit,47.64066,-122.37626,1309,1472,1589,1842,1472,1638,2009
+G53005210,S247568052,South Kirkland-South Kirkland-Issaquah Link-Light Rail-planned,South Kirkland-South Kirkland,planned,Light Rail,Light Rail,47.64412,-122.19434,294,617,1094,734,617,632,1226
+G53063000,S2468443006,University of Washington-Red Line (University Link)-Light Rail-existing,University of Washington,existing,Light Rail,Light Rail,47.64982,-122.3037,203,203,358,203,203,205,360
+G53063000,S3165785989,West Armour-RapidRide D-Bus Rapid Transit-existing,West Armour,existing,Bus Rapid Transit,Rapid Transit,47.64475,-122.37631,1487,1592,1777,1796,1592,1724,2053
+G53063000,S257766384,Hamlin Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,Hamlin Street,proposed,Bus Rapid Transit,Rapid Transit,47.64562,-122.32582,1931,2442,2531,3420,2450,2608,3526
+G53063000,S3605661608,Harvard Avenue-Roosevelt RapidRide-Bus Rapid Transit-proposed,Harvard Avenue,proposed,Bus Rapid Transit,Rapid Transit,47.65047,-122.32215,1259,1435,1698,1844,1624,1559,2318
+G53063000,S2782746063,Interbay-Ballard Link Extension-Light Rail-planned,Interbay,planned,Light Rail,Light Rail,47.65186,-122.37873,1378,1481,1668,1534,1481,1683,1900
+G53057535,S886263457,Overlake Transit Center-RapidRide B-Bus Rapid Transit-existing,Overlake Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.64355,-122.13234,26,26,104,26,26,26,104
+G53063000,S254359220,West Dravus-RapidRide D-Bus Rapid Transit-existing,West Dravus,existing,Bus Rapid Transit,Rapid Transit,47.64846,-122.37634,1420,1598,1938,2170,1598,1686,2520
+G53057535,S180310962,Redmond Technology Center-Blue Line (East Link)-Light Rail-uc,Redmond Technology Center,uc,Light Rail,Light Rail,47.64459,-122.13357,10,10,40,10,10,10,40
+G53057535,S245524073,NE 46-RapidRide B-Bus Rapid Transit-existing,NE 46,existing,Bus Rapid Transit,Rapid Transit,47.65232,-122.1433,20,20,80,20,20,20,80
+G53063000,S1266954302,West Emerson-RapidRide D-Bus Rapid Transit-existing,West Emerson,existing,Bus Rapid Transit,Rapid Transit,47.65403,-122.37613,876,1025,1118,1282,1039,1234,1504
+G53063000,S3096169437,41st Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,41st Street,proposed,Bus Rapid Transit,Rapid Transit,47.65689,-122.31718,2021,4435,4456,8249,4435,4508,8286
+G53057535,S3565557046,152-RapidRide B-Bus Rapid Transit-existing,152,existing,Bus Rapid Transit,Rapid Transit,47.64599,-122.1375,0,0,0,0,0,0,0
+G53057535,S237611151,NE 51-RapidRide B-Bus Rapid Transit-existing,NE 51,existing,Bus Rapid Transit,Rapid Transit,47.6551,-122.14332,206,207,769,207,207,207,769
+G53063000,S168620587,N 46-RapidRide E-Bus Rapid Transit-existing,N 46,existing,Bus Rapid Transit,Rapid Transit,47.66217,-122.34733,5382,6939,7175,8206,6939,7912,9076
+G53063000,S3096713806,43rd Street-Roosevelt RapidRide-Bus Rapid Transit-proposed,43rd Street,proposed,Bus Rapid Transit,Rapid Transit,47.66023,-122.31661,3047,6958,7022,11890,6958,7108,12062
+G53063000,S1552897316,U District-Red Line (Northgate Link)-Light Rail-existing,U District,existing,Light Rail,Light Rail,47.66111,-122.31409,4862,7182,7214,9719,7182,7703,10156
+G53057535,S2666238639,NE Old Redmond Road-RapidRide B-Bus Rapid Transit-existing,NE Old Redmond Road,existing,Bus Rapid Transit,Rapid Transit,47.66786,-122.14313,1042,1042,3847,1042,1042,1057,3862
+G53063000,S2292075132,NW Leary-RapidRide D-Bus Rapid Transit-existing,NW Leary,existing,Bus Rapid Transit,Rapid Transit,47.66365,-122.37619,361,473,474,655,480,517,697
+G53057535,S3915389825,S.E. Redmond-Blue Line (Downtown Redmond Link)-Light Rail-uc,S.E. Redmond,uc,Light Rail,Light Rail,47.6673,-122.10997,28,32,58,32,32,40,66
+G53063000,S3207664229,Ballard-Ballard Link Extension-Light Rail-planned,Ballard,planned,Light Rail,Light Rail,47.66867,-122.37628,3122,4211,4211,6074,4211,4450,6146
+G53063000,S1555638811,NW Market-RapidRide D-Bus Rapid Transit-existing,NW Market,existing,Bus Rapid Transit,Rapid Transit,47.66865,-122.37619,690,1595,1615,2137,1595,1991,2445
+G53063000,S168724170,N 65-RapidRide E-Bus Rapid Transit-existing,N 65,existing,Bus Rapid Transit,Rapid Transit,47.67602,-122.34672,1804,2042,2496,2061,2042,2179,2648
+G53063000,S584786520,Roosevelt-Red Line (Northgate Link)-Light Rail-existing,Roosevelt,existing,Light Rail,Light Rail,47.67667,-122.31597,6654,8277,8725,9695,8277,9151,10591
+G53057535,S1417612647,Downtown Redmond-Blue Line (Downtown Redmond Link)-Light Rail-uc,Downtown Redmond,uc,Light Rail,Light Rail,47.6716,-122.11847,1057,1086,1086,1120,1086,1104,1123
+G53063000,S2528797049,NW 60-RapidRide D-Bus Rapid Transit-existing,NW 60,existing,Bus Rapid Transit,Rapid Transit,47.67239,-122.3762,2268,2641,2828,3200,2641,3053,3539
+G53057535,S1646529343,NE Redmond Way-RapidRide B-Bus Rapid Transit-existing,NE Redmond Way,existing,Bus Rapid Transit,Rapid Transit,47.6752,-122.14322,347,347,1128,347,347,361,1142
+G53057535,S242465332,NW 85-RapidRide B-Bus Rapid Transit-existing,NW 85,existing,Bus Rapid Transit,Rapid Transit,47.67854,-122.12753,1202,1202,1202,1218,1202,1207,1218
+G53035940,S1900773476,Northeast 85-Stride S2-Bus Rapid Transit-planned,Northeast 85,planned,Bus Rapid Transit,Rapid Transit,47.67919,-122.18453,719,1313,1458,1448,1313,2334,2495
+G53063000,S2523226492,NW 65-RapidRide D-Bus Rapid Transit-existing,NW 65,existing,Bus Rapid Transit,Rapid Transit,47.67602,-122.37654,1500,1742,1959,2104,1742,1960,2437
+G53057535,S891168087,Redmond Transit Center-RapidRide B-Bus Rapid Transit-existing,Redmond Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.67531,-122.11917,1320,1504,2144,1770,1504,1731,2525
+G53057535,S244840932,NE 87-RapidRide B-Bus Rapid Transit-existing,NE 87,existing,Bus Rapid Transit,Rapid Transit,47.68052,-122.14524,661,661,1139,661,661,661,1139
+G53063000,S2528902616,NW 70-RapidRide D-Bus Rapid Transit-existing,NW 70,existing,Bus Rapid Transit,Rapid Transit,47.67952,-122.37675,1286,1403,1898,1625,1403,1492,2136
+G53063000,S168623784,N 76-RapidRide E-Bus Rapid Transit-existing,N 76,existing,Bus Rapid Transit,Rapid Transit,47.68403,-122.34445,1220,1453,1601,1728,1453,1521,1897
+G53063000,S2523260189,NW 75-RapidRide D-Bus Rapid Transit-existing,NW 75,existing,Bus Rapid Transit,Rapid Transit,47.68319,-122.37675,1455,1580,1966,1773,1580,1651,2164
+G53057535,S238941584,NW 90-RapidRide B-Bus Rapid Transit-existing,NW 90,existing,Bus Rapid Transit,Rapid Transit,47.68215,-122.12754,276,291,806,307,291,371,890
+G53063000,S2529299639,NW 80-RapidRide D-Bus Rapid Transit-existing,NW 80,existing,Bus Rapid Transit,Rapid Transit,47.68685,-122.37678,1075,1432,2114,1922,1432,1558,2608
+G53063000,S168840673,N 80-RapidRide E-Bus Rapid Transit-existing,N 80,existing,Bus Rapid Transit,Rapid Transit,47.68694,-122.34447,1064,1395,1605,1574,1395,1501,1837
+G53057535,S3565558960,154-RapidRide B-Bus Rapid Transit-existing,154,existing,Bus Rapid Transit,Rapid Transit,47.68223,-122.13459,0,0,0,0,0,0,0
+G53063000,S168730692,N 85-RapidRide E-Bus Rapid Transit-existing,N 85,existing,Bus Rapid Transit,Rapid Transit,47.69057,-122.3445,1479,2231,2600,2959,2231,2434,3401
+G53063000,S2523442098,NW 85-RapidRide D-Bus Rapid Transit-existing,NW 85,existing,Bus Rapid Transit,Rapid Transit,47.6906,-122.3768,1404,1798,2504,2400,1798,1995,3126
+G53063000,S3680547437,Mary Avenue-RapidRide D-Bus Rapid Transit-existing,Mary Avenue,existing,Bus Rapid Transit,Rapid Transit,47.69452,-122.37564,1413,2217,3653,3214,2217,2451,4685
+G53063000,S168841696,N 90-RapidRide E-Bus Rapid Transit-existing,N 90,existing,Bus Rapid Transit,Rapid Transit,47.6942,-122.34456,1444,2116,2526,2977,2116,2424,3446
+G53063000,S3942529624,7th Avenue NW-RapidRide D-Bus Rapid Transit-existing,7th Avenue NW,existing,Bus Rapid Transit,Rapid Transit,47.7023,-122.36417,2325,3409,5400,4058,3409,3779,6270
+G53063000,S3826495567,Northgate-Red Line (Northgate Link)-Light Rail-existing,Northgate,existing,Light Rail,Light Rail,47.7033,-122.32834,2803,3468,4067,4111,3468,3564,4806
+G53063000,S168733893,N 95-RapidRide E-Bus Rapid Transit-existing,N 95,existing,Bus Rapid Transit,Rapid Transit,47.69779,-122.34461,1350,2038,2338,2924,2038,2306,3276
+G53063000,S1276503096,N 100-RapidRide E-Bus Rapid Transit-existing,N 100,existing,Bus Rapid Transit,Rapid Transit,47.70144,-122.34466,717,1076,1452,1520,1076,1186,1913
+G53063000,S1272873533,N 105-RapidRide E-Bus Rapid Transit-existing,N 105,existing,Bus Rapid Transit,Rapid Transit,47.70508,-122.34471,1643,2055,2713,2680,2055,2306,3411
+G53063000,S1272977116,N 115-RapidRide E-Bus Rapid Transit-existing,N 115,existing,Bus Rapid Transit,Rapid Transit,47.71233,-122.3448,792,1006,1621,1361,1006,1172,2035
+G53035940,S2402648545,Totem Lake/Kingsgate-Stride S2-Bus Rapid Transit-planned,Totem Lake/Kingsgate,planned,Bus Rapid Transit,Rapid Transit,47.71839,-122.18742,1040,1486,2690,1555,1486,1668,2941
+G53063000,S1272801791,N 125-RapidRide E-Bus Rapid Transit-existing,N 125,existing,Bus Rapid Transit,Rapid Transit,47.7196,-122.34489,787,1005,1837,1203,1005,1035,2048
+G53063000,S49014179,130th Street-Red Line (Lynnwood Link)-Light Rail-uc,130th Street,uc,Light Rail,Light Rail,47.72313,-122.32392,1514,1853,3901,1853,1853,1975,4023
+G53063000,S1276467291,N 130-RapidRide E-Bus Rapid Transit-existing,N 130,existing,Bus Rapid Transit,Rapid Transit,47.72326,-122.34494,707,1063,1421,1668,1063,1152,2037
+G53063000,S1368175404,15 Avenue-Stride S3-Bus Rapid Transit-planned,15 Avenue,planned,Bus Rapid Transit,Rapid Transit,47.73392,-122.31281,1142,1654,3037,2381,1654,1707,3764
+G53063000,S1272905118,N 135-RapidRide E-Bus Rapid Transit-existing,N 135,existing,Bus Rapid Transit,Rapid Transit,47.72691,-122.34499,762,1003,1680,1183,1003,1049,1887
+G53063960,S1368175179,30 Avenue-Stride S3-Bus Rapid Transit-planned,30 Avenue,planned,Bus Rapid Transit,Rapid Transit,47.7338,-122.29649,2360,3506,5376,4668,3506,3780,6711
+G53063000,S1002765547,NE 145th-Red Line (Lynnwood Link)-Light Rail-uc,NE 145th,uc,Light Rail,Light Rail,47.73401,-122.32424,813,9331,10054,12512,9331,9331,13235
+G53063960,S1273017273,N 145-RapidRide E-Bus Rapid Transit-existing,N 145,existing,Bus Rapid Transit,Rapid Transit,47.73413,-122.34519,1359,1633,2833,2022,1633,1709,3246
+G53037270,S2966119572,155 Street-Stride S3-Bus Rapid Transit-planned,155 Street,planned,Bus Rapid Transit,Rapid Transit,47.74107,-122.28835,828,1180,2905,1708,1180,1261,3462
+G53007380,S37627898,Brickyard-Stride S2-Bus Rapid Transit-planned,Brickyard,planned,Bus Rapid Transit,Rapid Transit,47.74105,-122.18709,808,873,2839,876,873,974,2940
+G53063960,S1274023455,N 152-RapidRide E-Bus Rapid Transit-existing,N 152,existing,Bus Rapid Transit,Rapid Transit,47.73894,-122.34535,514,644,1543,871,644,648,1774
+G53063960,S1273120856,N 155-RapidRide E-Bus Rapid Transit-existing,N 155,existing,Bus Rapid Transit,Rapid Transit,47.74147,-122.3454,311,425,1168,539,425,425,1282
+G53063960,S1276287614,N 160-RapidRide E-Bus Rapid Transit-existing,N 160,existing,Bus Rapid Transit,Rapid Transit,47.74505,-122.34547,579,588,1458,643,588,596,1514
+G53037270,S2966119671,165 Street-Stride S3-Bus Rapid Transit-planned,165 Street,planned,Bus Rapid Transit,Rapid Transit,47.74827,-122.28483,541,545,2155,551,545,571,2181
+G53063960,S1272945531,N 165-RapidRide E-Bus Rapid Transit-existing,N 165,existing,Bus Rapid Transit,Rapid Transit,47.74864,-122.34554,548,726,1898,937,726,744,2116
+G53035170,S384251920,Kenmore Square-Stride S3-Bus Rapid Transit-planned,Kenmore Square,planned,Bus Rapid Transit,Rapid Transit,47.75628,-122.23696,868,1186,2264,1470,1235,1515,2791
+G53037270,S90233279,Ballinger Way-Stride S3-Bus Rapid Transit-planned,Ballinger Way,planned,Bus Rapid Transit,Rapid Transit,47.75381,-122.27579,339,340,1354,340,340,340,1354
+G53063960,S1276323551,N 170-RapidRide E-Bus Rapid Transit-existing,N 170,existing,Bus Rapid Transit,Rapid Transit,47.75235,-122.34561,709,963,1880,1282,963,971,2205
+G53035170,S1368175403,65 Avenue-Stride S3-Bus Rapid Transit-planned,65 Avenue,planned,Bus Rapid Transit,Rapid Transit,47.75868,-122.2536,493,1125,1671,1509,1125,1251,2154
+G53007380,S2966127292,180 Street-Stride S3-Bus Rapid Transit-planned,180 Street,planned,Bus Rapid Transit,Rapid Transit,47.75824,-122.21092,956,2375,3391,3558,2375,2375,4574
+G53007380,S2247206994,Kaysner Way-Stride S3-Bus Rapid Transit-planned,Kaysner Way,planned,Bus Rapid Transit,Rapid Transit,47.7604,-122.20162,1221,2577,3329,4132,2577,3424,5681
+G53063960,S1273048858,N 175-RapidRide E-Bus Rapid Transit-existing,N 175,existing,Bus Rapid Transit,Rapid Transit,47.75598,-122.34576,416,706,1404,1066,706,712,1764
+G53007380,S2200107864,110 Avenue-Stride S3-Bus Rapid Transit-planned,110 Avenue,planned,Bus Rapid Transit,Rapid Transit,47.76428,-122.19301,281,801,1378,1355,801,801,1932
+G53063960,S1276790576,N 180-RapidRide E-Bus Rapid Transit-existing,N 180,existing,Bus Rapid Transit,Rapid Transit,47.75965,-122.3461,582,1379,2381,2324,1483,1379,3430
+G53035170,S1368175279,61 Avenue-Stride S3-Bus Rapid Transit-planned,61 Avenue,planned,Bus Rapid Transit,Rapid Transit,47.75838,-122.26233,391,531,1620,697,531,545,1786
+G53063960,S1016996327,NE 185th-Red Line (Lynnwood Link)-Light Rail-uc,NE 185th,uc,Light Rail,Light Rail,47.76518,-122.32272,1299,9968,12127,14216,9968,10006,16413
+G53063960,S1273161013,N 185-RapidRide E-Bus Rapid Transit-existing,N 185,existing,Bus Rapid Transit,Rapid Transit,47.76328,-122.34601,512,2470,3319,3364,2470,2502,4230
+G53063960,S1274454675,N 192-RapidRide E-Bus Rapid Transit-existing,N 192,existing,Bus Rapid Transit,Rapid Transit,47.76781,-122.3459,542,588,1359,639,614,588,1436
+G53063960,S744285363,Aurora Village Transit Center-Swift Blue Line-Bus Rapid Transit-existing,Aurora Village Transit Center,existing,Bus Rapid Transit,Rapid Transit,47.77421,-122.34073,644,1059,2423,1189,1059,1068,2562
+G53007380,S436186064,Bothell-Stride S3-Bus Rapid Transit-planned,Bothell,planned,Bus Rapid Transit,Rapid Transit,47.76757,-122.19096,194,200,672,200,200,200,672
+G53063960,S1276499899,N 200-RapidRide E-Bus Rapid Transit-existing,N 200,existing,Bus Rapid Transit,Rapid Transit,47.77395,-122.346,976,1709,3051,2412,1709,1811,3843
+G53007380,S2115996819,SR 522/I-405 Transit Hub-Stride S2-Bus Rapid Transit-planned,SR 522/I-405 Transit Hub,planned,Bus Rapid Transit,Rapid Transit,47.76898,-122.18959,5,115,130,225,115,115,240
+G53047490,S1679635316,Mountlake Terrace-Red Line (Lynnwood Link)-Light Rail-uc,Mountlake Terrace,uc,Light Rail,Light Rail,47.78548,-122.31486,927,18844,18861,26688,18844,21554,29041
+G53020750,S3005278707,236th Street-Swift Blue Line-Bus Rapid Transit-existing,236th Street,existing,Bus Rapid Transit,Rapid Transit,47.78514,-122.34221,964,3067,5523,4573,3067,3384,7346
+G53007380,S267443801,Canyon Park-Stride S2-Bus Rapid Transit-planned,Canyon Park,planned,Bus Rapid Transit,Rapid Transit,47.79479,-122.21415,266,548,1222,599,622,834,1633
+G53047490,S49014145,220th Street-Red Line (Lynnwood Link)-Light Rail-uc,220th Street,uc,Light Rail,Light Rail,47.79898,-122.31634,723,6746,6925,8485,6746,10936,11954
+G53040840,S3005278769,216th Street-Swift Blue Line-Bus Rapid Transit-existing,216th Street,existing,Bus Rapid Transit,Rapid Transit,47.80319,-122.32919,366,2055,2387,2055,2069,2645,2991
+G53007380,S835011136,Canyon Park-Swift Green Line-Bus Rapid Transit-existing,Canyon Park,existing,Bus Rapid Transit,Rapid Transit,47.7978,-122.21365,151,939,1153,972,939,939,1186
+G53020750,S4134569177,Edmonds-Sounder-Commuter Rail-existing,Edmonds,existing,Commuter Rail,Commuter Rail,47.81073,-122.38502,711,2009,2227,2454,2055,2498,3155
+G53040840,S3005276498,204th Street-Swift Blue Line-Bus Rapid Transit-existing,204th Street,existing,Bus Rapid Transit,Rapid Transit,47.81402,-122.32108,222,274,739,330,274,321,841
+G53040840,S753658662,Lynnwood City Center-Red Line (Lynnwood Link)-Light Rail-uc,Lynnwood City Center,uc,Light Rail,Light Rail,47.81605,-122.29412,60,62,238,63,224,66,404
+G53040840,S442076563,Edmonds College-Swift Orange Line-Arterial Rapid Transit-uc,Edmonds College,uc,Arterial Rapid Transit,Rapid Transit,47.8159,-122.32489,377,956,1463,1411,1102,1314,2420
+G53040840,S2286611596,Crossroads-Swift Blue Line-Bus Rapid Transit-existing,Crossroads,existing,Bus Rapid Transit,Rapid Transit,47.81974,-122.31629,270,354,618,475,354,712,991
+G53040840,S2603258460,West Alderwood-Everett Link Extension-Light Rail-planned,West Alderwood,planned,Light Rail,Light Rail,47.82181,-122.27885,326,598,1368,684,598,1412,2220
+G53040840,S620179816,Lynnwood City Center-Swift Orange Line-Arterial Rapid Transit-uc,Lynnwood City Center,uc,Arterial Rapid Transit,Rapid Transit,47.81735,-122.2942,291,628,880,983,628,804,1411
+G53040840,S1541838909,196 Street-Swift Orange Line-Arterial Rapid Transit-uc,196 Street,uc,Arterial Rapid Transit,Rapid Transit,47.82118,-122.31536,404,471,1335,477,539,691,1623
+G53040840,S1926824899,Alderwood Mall-Swift Orange Line-Arterial Rapid Transit-uc,Alderwood Mall,uc,Arterial Rapid Transit,Rapid Transit,47.82825,-122.27772,87,127,289,180,127,201,395
+G53040840,S2827771919,Maple Road-Swift Orange Line-Arterial Rapid Transit-uc,Maple Road,uc,Arterial Rapid Transit,Rapid Transit,47.83632,-122.28172,892,911,3587,911,911,931,3607
+G53040840,S3005278836,176th Street-Swift Blue Line-Bus Rapid Transit-existing,176th Street,existing,Bus Rapid Transit,Rapid Transit,47.8392,-122.29957,834,885,2934,962,885,1284,3333
+G53045865,S904233868,Mill Creek Boulevard-Swift Orange Line-Arterial Rapid Transit-uc,Mill Creek Boulevard,uc,Arterial Rapid Transit,Rapid Transit,47.84948,-122.22055,162,166,602,166,166,183,619
+G53045865,S53287922,164th Street-Swift Green Line-Bus Rapid Transit-existing,164th Street,existing,Bus Rapid Transit,Rapid Transit,47.84952,-122.2175,264,276,291,282,276,711,726
+G53045865,S58237660,153rd Street-Swift Green Line-Bus Rapid Transit-existing,153rd Street,existing,Bus Rapid Transit,Rapid Transit,47.85922,-122.219,245,263,571,264,263,417,725
+G53045865,S53290005,136th Street-Swift Green Line-Bus Rapid Transit-existing,136th Street,existing,Bus Rapid Transit,Rapid Transit,47.87431,-122.21486,150,180,609,201,180,217,646
+G53022640,S1711233411,Murphys Corner-Swift Green Line-Bus Rapid Transit-existing,Murphys Corner,existing,Bus Rapid Transit,Rapid Transit,47.87821,-122.20707,537,795,2049,798,795,1572,2826
+G53022640,S53285715,112th Street-Swift Green Line-Bus Rapid Transit-existing,112th Street,existing,Bus Rapid Transit,Rapid Transit,47.89653,-122.26313,266,2039,2402,3312,2039,3363,4617
+G53022640,S3005280853,100th Street-Swift Blue Line-Bus Rapid Transit-existing,100th Street,existing,Bus Rapid Transit,Rapid Transit,47.90734,-122.24164,762,5841,7007,9364,5841,8374,12636
+G53022640,S2248833639,Casino Corner-Swift Blue Line-Bus Rapid Transit-existing,Casino Corner,existing,Bus Rapid Transit,Rapid Transit,47.92198,-122.22809,648,5840,6853,6371,5840,6714,8220
+G53022640,S604467492,SR 526/Evergreen-Everett Link Extension-Light Rail-planned,SR 526/Evergreen,planned,Light Rail,Light Rail,47.92321,-122.22675,357,1684,2612,1992,1684,1963,3199
+G53022640,S3271150603,Madison Street-Swift Blue Line-Bus Rapid Transit-existing,Madison Street,existing,Bus Rapid Transit,Rapid Transit,47.93625,-122.21906,1474,7061,9774,9709,7061,7738,12767
+G53047735,S2050178507,Mukilteo-Sounder-Commuter Rail-existing,Mukilteo,existing,Commuter Rail,Commuter Rail,47.94917,-122.29808,359,731,1719,1044,731,731,2032
+G53022640,S3084963509,52nd Street-Swift Blue Line-Bus Rapid Transit-existing,52nd Street,existing,Bus Rapid Transit,Rapid Transit,47.94939,-122.21453,1409,5086,6983,5854,5086,5512,8177
+G53022640,S3084422170,41st Street-Swift Blue Line-Bus Rapid Transit-existing,41st Street,existing,Bus Rapid Transit,Rapid Transit,47.96334,-122.21085,1067,6816,8432,8819,6816,8704,12005
+G53022640,S3187579493,Everett-Everett Link Extension-Light Rail-planned,Everett,planned,Light Rail,Light Rail,47.97463,-122.19721,166,1995,1995,2122,1995,1995,2122
+G53022640,S1706865474,Pacific Avenue-Swift Blue Line-Bus Rapid Transit-existing,Pacific Avenue,existing,Bus Rapid Transit,Rapid Transit,47.97663,-122.20707,3300,16923,16974,21786,16923,21710,25551
+G53022640,S2280522338,Everett Station-Swift Blue Line-Bus Rapid Transit-existing,Everett Station,existing,Bus Rapid Transit,Rapid Transit,47.97524,-122.19823,284,2110,2110,3240,2110,2578,3618
+G53022640,S2166535928,Everett Station-Sounder-Commuter Rail-existing,Everett Station,existing,Commuter Rail,Commuter Rail,47.97555,-122.19732,201,2982,2988,3249,2982,3861,4134
+G53072625,S229861179,West Valley Highway-RapidRide F-Bus Rapid Transit-existing,West Valley Highway,existing,Bus Rapid Transit,Rapid Transit,47.45686,-122.24381,0,0,0,0,0,0,0
+G53063000,S3205574120,Westlake Hub-South Lake Union Line-Streetcar-existing,Westlake Hub,existing,Streetcar,Streetcar,47.61289,-122.33728,1,808,808,1616,808,808,1616
+G53063000,S2301426360,Seneca Street-RapidRide D-Bus Rapid Transit-existing,Seneca Street,existing,Bus Rapid Transit,Rapid Transit,47.60703,-122.3353,2,528,528,1056,528,528,1056
+G53005210,S1096747238,Wilburton-Blue Line (East Link)-Light Rail-uc,Wilburton,uc,Light Rail,Light Rail,47.61797,-122.18377,0,0,0,0,0,0,0
+G53005210,S3956247009,116/118-RapidRide B-Bus Rapid Transit-existing,116/118,existing,Bus Rapid Transit,Rapid Transit,47.61731,-122.18463,0,8,8,8,8,22,22
+G53022640,S815402653,Casino Road-Swift Green Line-Bus Rapid Transit-existing,Casino Road,existing,Bus Rapid Transit,Rapid Transit,47.92005,-122.27173,0,0,0,0,0,0,0
+G53057745,S3520851006,Naches Avenue SW-RapidRide F-Bus Rapid Transit-existing,Naches Avenue SW,existing,Bus Rapid Transit,Rapid Transit,47.45702,-122.23749,0,0,0,0,0,0,0

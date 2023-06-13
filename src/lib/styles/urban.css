@@ -1,0 +1,197 @@
+:root {
+	/* Font sizes */
+	--text-base: 16px;
+	--text-5xl: 3rem;
+	--text-4xl: 2.25rem;
+	--text-3xl: 1.875rem;
+	--text-2xl: 1.5rem;
+	--text-xl: 1.25rem;
+	--text-lg: 1.125rem;
+	--text-sm: 0.875rem;
+
+	/* Font Familys */
+	--font-sans: 'Lato', Helvetica, sans-serif;
+
+	/* Font Weights */
+	--font-bold: 700;
+	--font-normal: 400;
+	--font-light: 300;
+
+	/* Line Height */
+	--leading-tight: 1.25;
+	--leading-snug: 1.375;
+	--leading-normal: 1.5;
+	--leading-relaxed: 1.625;
+	--leading-none: auto;
+
+	/* Dimensions */
+	--body-width: 760px;
+
+	/* breakpoints */
+	--md: 768px;
+	--sm: 375px;
+
+	/* 
+	Colors are defined in /properties/colors.json and injected via style-dictionary
+	so that they can be used in both css and js
+	 */
+}
+
+html {
+	font-size: var(--text-base);
+}
+
+body {
+	font-family: var(--font-sans);
+	color: var(--color-gray-darkest);
+}
+
+h1 {
+	margin: 0;
+	font-size: var(--text-5xl);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-tight);
+}
+
+h2 {
+	margin: 0;
+	font-size: var(--text-4xl);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-tight);
+}
+
+h3 {
+	margin: 0;
+	font-size: var(--text-4xl);
+	font-weight: var(--font-light);
+	line-height: var(--leading-snug);
+	text-transform: uppercase;
+}
+
+h4 {
+	margin: 0;
+	font-size: var(--text-3xl);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-snug);
+}
+
+h5 {
+	margin: 0;
+	font-size: var(--text-2xl);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-normal);
+}
+
+h6 {
+	margin: 0;
+	font-size: var(--text-lg);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-normal);
+}
+
+p {
+	font-size: var(--text-xl);
+	font-weight: var(--font-normal);
+	line-height: var(--leading-relaxed);
+}
+
+b {
+	font-size: var(--text-xl);
+	font-weight: var(--font-bold);
+	line-height: var(--leading-relaxed);
+}
+
+i {
+	font-size: var(--text-xl);
+	font-style: italic;
+	line-height: var(--leading-relaxed);
+}
+
+a {
+	color: var(--color-blue);
+	font-weight: var(--font-bold);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--color-blue-dark);
+}
+
+li {
+	font-size: var(--text-xl);
+	font-weight: var(--font-bold);
+}
+
+button {
+	cursor: pointer;
+	border: none;
+	padding: 0px;
+}
+
+.eyebrow {
+	font-size: var(--text-sm);
+	font-weight: var(--font-normal);
+	line-height: var(--leading-normal);
+	text-transform: uppercase;
+}
+
+.date {
+	font-size: var(--text-sm);
+	font-weight: var(--font-normal);
+	line-height: var(--leading-normal);
+}
+
+.footnote {
+	font-size: var(--text-sm);
+}
+
+.body-content {
+	max-width: var(--body-width);
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+	h1 {
+		font-size: var(--text-4xl);
+	}
+
+	h2 {
+		font-size: var(--text-3xl);
+		line-height: var(--leading-snug);
+	}
+
+	h3 {
+		font-size: var(--text-2xl);
+		line-height: var(--text-2xl);
+	}
+
+	h4 {
+		font-size: var(--text-xl);
+		line-height: var(--leading-normal);
+	}
+
+	h5 {
+		font-size: var(--text-lg);
+		line-height: var(--leading-normal);
+	}
+
+	h6 {
+		font-size: var(--text-base);
+		line-height: var(--leading-normal);
+	}
+
+	p {
+		font-size: var(--text-lg);
+		line-height: var(--leading-normal);
+	}
+
+	b {
+		font-size: var(--text-lg);
+		line-height: var(--leading-normal);
+	}
+
+	i {
+		font-size: var(--text-lg);
+		line-height: var(--leading-normal);
+	}
+}

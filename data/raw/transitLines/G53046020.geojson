@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "G53046020",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 924.0, "id": 922, "mode": "Light Rail", "region": "Seattle WA", "agency": "Sound Transit", "name": "Tacoma Dome Link Extension", "year_open": null, "miles": 10.0, "cost_usd": null, "riders": null, "status": "planned", "notes": "Funded in part by 2016 referendum.", "web": "https://www.soundtransit.org/system-expansion/tacoma-dome-link-extension", "grade": "elevated; at grade", "constructi": "2026-2032", "automated": null, "year_close": null, "ffga_date": null, "ffga_cost": null, "ffga_shr": null, "attributio": "Yonah Freemark; OpenStreetMap contributors", "limited": 0, "country": "US", "brt_rating": null, "project": "Federal Way to Tacoma Dome", "key_line": 1, "GISJOIN": "G53046020", "STATEFP": "53", "PLACEFP": "46020", "PLACENS": "02411114", "GEOID": "5346020", "NAME_2": "Milton", "NAMELSAD": "Milton city", "LSAD": "25", "CLASSFP": "C1", "PCICBSA": "N", "PCINECTA": "N", "MTFCC": "G4110", "FUNCSTAT": "A", "ALAND": 7199242.0, "AWATER": 103929.0, "INTPTLAT": "+47.2519937", "INTPTLON": "-122.3172889" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -122.333357020235766, 47.24905444636601 ], [ -122.3321256, 47.25341591 ], [ -122.331629168642053, 47.25472403199268 ], [ -122.330924632761921, 47.256030625806737 ], [ -122.33016764, 47.2572819 ], [ -122.328593259485871, 47.259194632395676 ], [ -122.327339563257226, 47.260591074057572 ], [ -122.325903213398107, 47.261897488226715 ], [ -122.322932099536644, 47.264549000198706 ] ] ] } }
+]
+}

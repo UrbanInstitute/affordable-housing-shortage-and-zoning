@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"Fife_station_and_jurisdiction_data","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"JURISDICTION_ID":"G53023795","STATION_ID":"S3630470687"},"geometry":{"type":"Point","coordinates":[-122.35181,47.24456]}}]}

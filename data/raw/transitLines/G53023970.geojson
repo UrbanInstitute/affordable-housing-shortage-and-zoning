@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "G53023970",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 915.0, "id": 913, "mode": "Streetcar", "region": "Seattle WA", "agency": "Sound Transit", "name": "Tacoma Link to Tacoma Community College", "year_open": null, "miles": null, "cost_usd": null, "riders": null, "status": "proposed", "notes": "Funded by 2016 referendum; in planning; to be completed 2041", "web": "https://www.soundtransit.org/system-expansion/tcc-tacoma-link-extension", "grade": "at grade", "constructi": null, "automated": null, "year_close": null, "ffga_date": null, "ffga_cost": null, "ffga_shr": null, "attributio": "Yonah Freemark; OpenStreetMap contributors", "limited": 0, "country": "US", "brt_rating": null, "project": "Tacoma Link to Tacoma Community College", "key_line": 1, "GISJOIN": "G53023970", "STATEFP": "53", "PLACEFP": "23970", "PLACENS": "02410506", "GEOID": "5323970", "NAME_2": "Fircrest", "NAMELSAD": "Fircrest city", "LSAD": "25", "CLASSFP": "C1", "PCICBSA": "N", "PCINECTA": "N", "MTFCC": "G4110", "FUNCSTAT": "A", "ALAND": 4101100.0, "AWATER": 0.0, "INTPTLAT": "+47.2307163", "INTPTLON": "-122.5157038" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -122.521905760868222, 47.242736801155942 ], [ -122.52214527793592, 47.242733711982787 ] ] ] } }
+]
+}

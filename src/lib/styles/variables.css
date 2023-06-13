@@ -1,0 +1,34 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 31 Mar 2023 22:35:04 GMT
+ */
+
+:root {
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-blue: #1696d2;
+  --color-blue-darkest: #062635;
+  --color-blue-darker: #0a4c6a;
+  --color-blue-dark: #12719e;
+  --color-blue-medium: #46abdb;
+  --color-blue-light: #73bfe2;
+  --color-blue-lighter: #a2d4ec;
+  --color-blue-lightest: #cfe8f3;
+  --color-yellow: #fdbf11;
+  --color-yellow-darkest: #843215;
+  --color-yellow-darker: #ca5800;
+  --color-yellow-dark: #e88e2d;
+  --color-yellow-medium: #fccb41;
+  --color-yellow-light: #fdd870;
+  --color-yellow-lighter: #fce39e;
+  --color-yellow-lightest: #fff2cf;
+  --color-gray: #d2d2d2;
+  --color-gray-darkest: #353535;
+  --color-gray-darker: #696969;
+  --color-gray-dark: #9d9d9d;
+  --color-gray-medium: #dcdcdc;
+  --color-gray-light: #e3e3e3;
+  --color-gray-lighter: #ececec;
+  --color-gray-lightest: #f5f5f5;
+  --color-magenta: #ec008b;
+}

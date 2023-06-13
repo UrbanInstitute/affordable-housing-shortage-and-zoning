@@ -1,0 +1,85 @@
+{
+	"color": {
+		"black": {
+			"value": "#000000"
+		},
+		"white": {
+			"value": "#ffffff"
+		},
+		"blue": {
+			"value": "#1696D2"
+		},
+		"blue-darkest": {
+			"value": "#062635"
+		},
+		"blue-darker": {
+			"value": "#0A4C6A"
+		},
+		"blue-dark": {
+			"value": "#12719E"
+		},
+		"blue-medium": {
+			"value": "#46ABDB"
+		},
+		"blue-light": {
+			"value": "#73BFE2"
+		},
+		"blue-lighter": {
+			"value": "#A2D4EC"
+		},
+		"blue-lightest": {
+			"value": "#CFE8F3"
+		},
+		"yellow": {
+			"value": "#FDBF11"
+		},
+		"yellow-darkest": {
+			"value": "#843215"
+		},
+		"yellow-darker": {
+			"value": "#CA5800"
+		},
+		"yellow-dark": {
+			"value": "#E88E2D"
+		},
+		"yellow-medium": {
+			"value": "#FCCB41"
+		},
+		"yellow-light": {
+			"value": "#FDD870"
+		},
+		"yellow-lighter": {
+			"value": "#FCE39E"
+		},
+		"yellow-lightest": {
+			"value": "#FFF2CF"
+		},
+		"gray": {
+			"value": "#D2D2D2"
+		},
+		"gray-darkest": {
+			"value": "#353535"
+		},
+		"gray-darker": {
+			"value": "#696969"
+		},
+		"gray-dark": {
+			"value": "#9D9D9D"
+		},
+		"gray-medium": {
+			"value": "#DCDCDC"
+		},
+		"gray-light": {
+			"value": "#E3E3E3"
+		},
+		"gray-lighter": {
+			"value": "#ECECEC"
+		},
+		"gray-lightest": {
+			"value": "#F5F5F5"
+		},
+		"magenta": {
+			"value": "#EC008B"
+		}
+	}
+}

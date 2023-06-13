@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"Fircrest_station_and_jurisdiction_data","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"JURISDICTION_ID":"G53023970","STATION_ID":"S1257292393"},"geometry":{"type":"Point","coordinates":[-122.52215,47.24273]}}]}
